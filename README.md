@@ -29,7 +29,7 @@ You need to have Node.js installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
+    git clone [https://github.com/Waqar-Ahmad76/Color-Mixer.git](https://github.com/Waqar-Ahmad76/Color-Mixer.git)
     cd your-repo-name
     ```
 2.  **Install dependencies:**
@@ -63,8 +63,4 @@ This project is great for practicing the following:
 * **Passing Handlers:** The `onSlide` handler is created in `App.jsx` and passed down as a prop to `Slider.jsx`.
 * **Identifying Event Targets:** The handler uses `e.target.name` to identify which state setter (`setRed`, `setGreen`, etc.) to call.
 
-### Potential Enhancements:
 
-1.  **Add a Reset Button:** Implement an `onClick` handler to reset all state values to 0.
-2.  **Hex Code Display:** Calculate and display the corresponding hexadecimal color code (e.g., `#000000`).
-3.  **Input Field:** Add a numeric text input next to each slider to allow users to type in a value directly.
